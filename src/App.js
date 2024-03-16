@@ -20,8 +20,9 @@ import {BrowserRouter,Routes, Route} from 'react-router-dom'
 function App() {
   return (
     <div>
-    <NavBar />
+    
     <BrowserRouter basename="/">
+    <NavBar />
       <Routes>
         <Route path='/' element={<Index/>} />
         <Route path='/hakkinda' element={<About/>} />
@@ -37,8 +38,9 @@ function App() {
         <Route path="/planlama-taahhudu" element={<ModelBilesenDokuz/>} />
         <Route path="*" element={<PageNotFound />} />
       </Routes>
+      <Footer />
     </BrowserRouter>
-    <Footer />
+    
     </div>
   )
 }
