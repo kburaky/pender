@@ -21,7 +21,7 @@ function App() {
   return (
     <div>
     <NavBar />
-    <BrowserRouter>
+    <BrowserRouter basename="/">
       <Routes>
         <Route path='/' element={<Index/>} />
         <Route path='/hakkinda' element={<About/>} />
