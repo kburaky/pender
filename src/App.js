@@ -24,7 +24,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path='/' element={<Index/>} />
-        <Route path='/:hakkinda' element={<About/>} />
+        <Route path='/hakkinda' element={<About/>} />
         <Route path='/kahvalti-besinleri' element={<BreakfastFoods/>} />
         <Route path="/onceki-ilgili-davranis" element={<ModelBilesenBir/>} />
         <Route path="/algilanan-fayda" element={<ModelBilesenIki/>} />
