@@ -19,9 +19,9 @@ import {BrowserRouter,Routes, Route} from 'react-router-dom'
 
 function App() {
   return (
-    <div>
     
-    <BrowserRouter basename="/">
+    
+    <BrowserRouter>
     <NavBar />
       <Routes>
         <Route path='/' element={<Index/>} />
@@ -41,7 +41,7 @@ function App() {
       <Footer />
     </BrowserRouter>
     
-    </div>
+    
   )
 }
 
