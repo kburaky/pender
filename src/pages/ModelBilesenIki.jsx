@@ -1,10 +1,13 @@
 import React from 'react'
 
 import Breadcrumb from '../components/Breadcrumb'
+import NavBar from '../components/NavBar'
+import Footer from '../components/Footer'
 
 function ModelBilesenIki() {
   return (
     <div>
+      <NavBar />
       <Breadcrumb page="Algılanan Fayda" title="Algılanan Fayda" />
 
 
@@ -29,6 +32,7 @@ function ModelBilesenIki() {
       </div>
   </div>
 </div>
+<Footer />
     </div>
   )
 }

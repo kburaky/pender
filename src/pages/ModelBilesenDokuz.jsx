@@ -1,11 +1,13 @@
 import React from 'react'
 
 import Breadcrumb from '../components/Breadcrumb'
+import NavBar from '../components/NavBar'
+import Footer from '../components/Footer'
 
 function ModelBilesenDokuz() {
   return (
     <div>
-
+<NavBar />
 <Breadcrumb page="Planlama taahhüdü" title="Planlama taahhüdü" />
 
 
@@ -30,7 +32,7 @@ function ModelBilesenDokuz() {
       </div>
   </div>
 </div>
-
+<Footer />
     </div>
   )
 }

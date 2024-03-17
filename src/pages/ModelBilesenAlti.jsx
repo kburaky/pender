@@ -1,10 +1,13 @@
 import React from 'react'
 
 import Breadcrumb from '../components/Breadcrumb'
+import NavBar from '../components/NavBar'
+import Footer from '../components/Footer'
 
 function ModelBilesenAlti() {
   return (
     <div>
+      <NavBar />
       <Breadcrumb page="Kişilerarası Etkiler" title="Kişilerarası Etkiler" />
 
 
@@ -29,6 +32,7 @@ function ModelBilesenAlti() {
       </div>
   </div>
 </div>
+<Footer />
     </div>
   )
 }

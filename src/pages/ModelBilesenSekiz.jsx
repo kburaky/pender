@@ -1,10 +1,13 @@
 import React from 'react'
 
 import Breadcrumb from '../components/Breadcrumb'
+import NavBar from '../components/NavBar'
+import Footer from '../components/Footer'
 
 function ModelBilesenSekiz() {
   return (
     <div>
+      <NavBar />
       <Breadcrumb page="Anında rekabet edilen talep ve tercihler" title="Anında rekabet edilen talep ve tercihler" />
 
 
@@ -29,6 +32,7 @@ function ModelBilesenSekiz() {
       </div>
   </div>
 </div>
+<Footer />
     </div>
   )
 }

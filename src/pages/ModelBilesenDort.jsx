@@ -1,10 +1,13 @@
 import React from 'react'
 
 import Breadcrumb from '../components/Breadcrumb'
+import NavBar from '../components/NavBar'
+import Footer from '../components/Footer'
 
 function ModelBilesenDort() {
   return (
     <div>
+      <NavBar />
 <Breadcrumb page="Algılanan Özyeterlilik" title="Algılanan Özyeterlilik" />
 
 
@@ -30,7 +33,7 @@ function ModelBilesenDort() {
   </div>
 </div>
 
-
+<Footer />
 
     </div>
   )

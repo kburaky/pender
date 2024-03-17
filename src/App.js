@@ -3,8 +3,6 @@ import Index from './pages/Index'
 import About from './pages/About'
 import BreakfastFoods from './pages/BreakfastFoods'
 import PageNotFound from './pages/PageNotFound'
-import NavBar from './components/NavBar'
-import Footer from './components/Footer'
 import ModelBilesenBir from './pages/ModelBilesenBir'
 import ModelBilesenIki from './pages/ModelBilesenIki'
 import ModelBilesenUc from './pages/ModelBilesenUc'
@@ -20,7 +18,7 @@ import {BrowserRouter,Routes, Route} from 'react-router-dom'
 function App() {
   return (
     <div>
-    <NavBar />
+    
     <BrowserRouter>
       <Routes>
         <Route path='/' element={<Index/>} />
@@ -38,7 +36,7 @@ function App() {
         <Route path="*" element={<PageNotFound />} />
       </Routes>
     </BrowserRouter>
-    <Footer />
+    
     </div>
   )
 }

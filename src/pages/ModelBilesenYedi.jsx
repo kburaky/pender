@@ -1,11 +1,13 @@
 import React from 'react'
 
 import Breadcrumb from '../components/Breadcrumb'
+import NavBar from '../components/NavBar'
+import Footer from '../components/Footer'
 
 function ModelBilesenYedi() {
   return (
     <div>
-
+<NavBar />
 <Breadcrumb page="Durumsal Etkiler" title="Durumsal Etkiler" />
 
 
@@ -31,7 +33,7 @@ function ModelBilesenYedi() {
   </div>
 </div>
 
-
+<Footer />
     </div>
   )
 }

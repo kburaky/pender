@@ -1,10 +1,13 @@
 import React from 'react'
 
 import Breadcrumb from '../components/Breadcrumb'
+import NavBar from '../components/NavBar'
+import Footer from '../components/Footer'
 
 function ModelBilesenBes() {
   return (
     <div>
+      <NavBar />
       <Breadcrumb page="Olumlu ve Olumsuz Etki" title="Olumlu ve Olumsuz Etki" />
 
 
@@ -28,6 +31,7 @@ function ModelBilesenBes() {
       </div>
   </div>
 </div>
+<Footer />
     </div>
   )
 }
