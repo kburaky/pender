@@ -16,7 +16,7 @@ function ModelBilesenBir() {
             <div className="row g-5 align-items-center">
                 <div className="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div className="about-img position-relative overflow-hidden p-5 pe-0">
-                        <img className="img-fluid w-100" alt="Önceki İlgili Davranış" src="img/about.jpg"/>
+                        <img className="img-fluid w-100" alt="Önceki İlgili Davranış" src="img/model-bilesen-1.png"/>
                     </div>
                 </div>
                 <div className="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -30,6 +30,35 @@ function ModelBilesenBir() {
                     
                 </div>
             </div>
+
+            <div className="row g-5 align-items-center">
+                <div className="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+                
+                <p>Küçük çocuklara kahvaltı alışkanlığı kazandırmak önemlidir çünkü kahvaltı, günün en önemli öğünlerinden biridir ve çocukların enerji seviyelerini düzenler, konsantrasyonlarını artırır ve genel olarak sağlıklı bir yaşam tarzının temelini oluşturur. İşte çocuklara kahvaltı alışkanlığı kazandırmak için bazı ipuçları:</p>
+<ol>
+<li><b>Örnek Olun:</b> Çocuklar genellikle ebeveynlerinin davranışlarını taklit ederler. Bu yüzden siz düzenli olarak kahvaltı yapıyorsanız, çocuğunuz da bu davranışı benimseyecektir.</li>
+<li><b>Seçenekler Sunun:</b> Çocuğunuzun kahvaltıda sevdiği yiyecekleri belirleyin ve bu yiyecekleri seçenek olarak sunun. Farklı meyveler, tahıllar, süt ürünleri veya yumurta gibi sağlıklı seçenekler arasından seçim yapmalarına izin verin.</li>
+<li><b>Kahvaltıyı Eğlenceli Hale Getirin:</b> Kahvaltı zamanını eğlenceli hale getirerek çocuğunuzun ilgisini çekebilirsiniz. Renkli tabaklar, ilginç şekillerde kesilmiş meyveler veya kahvaltı masasında birlikte oynanabilecek oyunlar gibi yöntemler kullanılabilir.</li>
+<li><b>Düzenli Olarak Yemek Saatlerini Belirleyin:</b> Sabah kahvaltı zamanını belirleyerek çocuğunuzun alışkanlık kazanmasına yardımcı olun. Düzenli bir kahvaltı saati, çocuğunuzun bu öğünü kaçırmamasını sağlayacaktır.</li>
+<li><b>Ödüllendirme Yöntemini Kullanın:</b> Çocuğunuz kahvaltıyı düzenli olarak yaptığında veya sağlıklı seçenekleri tercih ettiğinde onu ödüllendirin. Bu, kahvaltı alışkanlığının pekişmesine yardımcı olabilir.</li>
+<li><b>Onların Katılımını Sağlayın:</b> Çocuklar kendi kahvaltılarını hazırlamaya yardımcı olmaktan keyif alabilirler. Onlara basit görevler vererek (örneğin, meyve dilimleme, tahıl dökme) kahvaltı yapma sürecine katılmalarını sağlayabilirsiniz.</li>
+<li><b>Sabırlı Olun ve Teşvik Edin:</b> Yeni bir alışkanlık kazanmak zaman alabilir ve çocuklar bazen direnç gösterebilirler. Sabırlı olun ve onları teşvik edin. Olumlu geri bildirimlerle ve sabırlı yaklaşımlarla kahvaltı alışkanlığını pekiştirebilirsiniz.</li>
+
+</ol>
+
+<p>Unutmayın ki her çocuk farklıdır ve bir yöntem diğerinden daha etkili olabilir. Çocuğunuzun ihtiyaçlarına ve ilgi alanlarına göre yaklaşarak kahvaltı alışkanlığını kazanmasına yardımcı olabilirsiniz.</p>
+
+                </div>
+                <div className="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/uFB9aMUsmBs?si=XCVAjoc7jKHHp-6m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
+                    
+                </div>
+            </div>
+
+
+
+
+
         </div>
     </div>
     <Footer />
