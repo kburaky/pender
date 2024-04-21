@@ -12,9 +12,8 @@ function Carousel() {
                         <div className="container">
                             <div className="row justify-content-start">
                                 <div className="col-lg-7">
-                                    <h1 className="display-2 mb-5 animated slideInDown">Organic Food Is Good For Health</h1>
-                                    <a href="" className="btn btn-primary rounded-pill py-sm-3 px-sm-5">Products</a>
-                                    <a href="" className="btn btn-secondary rounded-pill py-sm-3 px-sm-5 ms-3">Services</a>
+                                    <h1 className="display-2 mb-5 animated slideInDown">Kahvaltı Altın Öğündür.</h1>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -26,9 +25,8 @@ function Carousel() {
                         <div className="container">
                             <div className="row justify-content-start">
                                 <div className="col-lg-7">
-                                    <h1 className="display-2 mb-5 animated slideInDown">Natural Food Is Always Healthy</h1>
-                                    <a href="" className="btn btn-primary rounded-pill py-sm-3 px-sm-5">Products</a>
-                                    <a href="" className="btn btn-secondary rounded-pill py-sm-3 px-sm-5 ms-3">Services</a>
+                                    <h1 className="display-2 mb-5 animated slideInDown">Enerji Dolu Bir Gün İçin Hazırlık!</h1>
+                                    
                                 </div>
                             </div>
                         </div>

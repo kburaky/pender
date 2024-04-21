@@ -8,7 +8,7 @@ function About() {
             <div className="row g-5 align-items-center">
                 <div className="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div className="about-img position-relative overflow-hidden p-5 pe-0">
-                        <img className="img-fluid w-100" alt='' src="img/about.jpg"/>
+                        <img className="img-fluid w-100" alt='' src="img/nola.jpg"/>
                     </div>
                 </div>
                 <div className="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
