@@ -50,7 +50,7 @@ function ModelBilesenBir() {
 
                 </div>
                 <div className="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/lQRqDkNWKEk?si=Wnc4FioBeKEhVGOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/M38R-BAPcyM?si=c6AAm7_Rxyo_HMKX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
                     
                 </div>
             </div>
