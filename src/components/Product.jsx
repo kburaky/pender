@@ -21,10 +21,10 @@ function Product() {
                             <a class="btn btn-outline-primary border-2 active" data-bs-toggle="pill" href="#tab-1">Süt ve Süt Ürünleri</a>
                         </li>
                         <li class="nav-item me-2">
-                            <a class="btn btn-outline-primary border-2" data-bs-toggle="pill" href="#tab-2">Meyveler </a>
+                            <a class="btn btn-outline-primary border-2" data-bs-toggle="pill" href="#tab-2">Sebzeler</a>
                         </li>
                         <li class="nav-item me-2">
-                            <a class="btn btn-outline-primary border-2" data-bs-toggle="pill" href="#tab-3">Sebzeler</a>
+                            <a class="btn btn-outline-primary border-2" data-bs-toggle="pill" href="#tab-3">Meyveler</a>
                         </li>
                         <li class="nav-item me-2">
                             <a class="btn btn-outline-primary border-2" data-bs-toggle="pill" href="#tab-4">Ekmekler ve Tahıllar</a>
@@ -157,174 +157,74 @@ function Product() {
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="product-item">
                                 <div className="position-relative bg-light overflow-hidden">
-                                    <img className="img-fluid w-100" src="img/product-1.jpg" alt=""/>
-                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <img className="img-fluid w-100" src="img/bsn-1-domates.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Sebzeler</div>
                                 </div>
                                 <div className="text-center p-4">
-                                    <a className="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span className="text-primary me-1">$19.00</span>
-                                    <span className="text-body text-decoration-line-through">$29.00</span>
+                                    <a className="d-block h5 mb-2" href="">Domates</a>
+                                    <span className="d-block text-primary me-1">18-20 kcal</span>
+                                    
                                 </div>
-                                <div className="d-flex border-top">
-                                    <small className="w-50 text-center border-end py-2">
-                                        <a className="text-body" href=""><i className="fa fa-eye text-primary me-2"></i>View detail</a>
-                                    </small>
-                                    <small className="w-50 text-center py-2">
-                                        <a className="text-body" href=""><i className="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small>
+                            </div>
+                        </div>
+                        
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="product-item">
+                                <div className="position-relative bg-light overflow-hidden">
+                                    <img className="img-fluid w-100" src="img/bsn-2-kirmizibiber.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Sebzeler</div>
                                 </div>
+                                <div className="text-center p-4">
+                                    <a className="d-block h5 mb-2" href="">Kırmızı Biber</a>
+                                    <span className="d-block text-primary me-1">19 kcal</span>
+                                    
+                                </div>
+                                
                             </div>
                         </div>
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="product-item">
                                 <div className="position-relative bg-light overflow-hidden">
-                                    <img className="img-fluid w-100" src="img/product-2.jpg" alt=""/>
-                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <img className="img-fluid w-100" src="img/bsn-3-maydanoz.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Sebzeler</div>
                                 </div>
                                 <div className="text-center p-4">
-                                    <a className="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span className="text-primary me-1">$19.00</span>
-                                    <span className="text-body text-decoration-line-through">$29.00</span>
+                                    <a className="d-block h5 mb-2" href="">Maydanoz</a>
+                                    <span className="d-block text-primary me-1">36,1 kcal</span>
+                                    
                                 </div>
-                                <div className="d-flex border-top">
-                                    <small className="w-50 text-center border-end py-2">
-                                        <a className="text-body" href=""><i className="fa fa-eye text-primary me-2"></i>View detail</a>
-                                    </small>
-                                    <small className="w-50 text-center py-2">
-                                        <a className="text-body" href=""><i className="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small>
-                                </div>
+                               
                             </div>
                         </div>
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="product-item">
                                 <div className="position-relative bg-light overflow-hidden">
-                                    <img className="img-fluid w-100" src="img/product-3.jpg" alt=""/>
-                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <img className="img-fluid w-100" src="img/bsn-4-salatalik.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Sebzeler</div>
                                 </div>
                                 <div className="text-center p-4">
-                                    <a className="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span className="text-primary me-1">$19.00</span>
-                                    <span className="text-body text-decoration-line-through">$29.00</span>
+                                    <a className="d-block h5 mb-2" href="">Salatalık</a>
+                                    <span className="d-block text-primary me-1">15,5 kcal</span>
+                                    
                                 </div>
-                                <div className="d-flex border-top">
-                                    <small className="w-50 text-center border-end py-2">
-                                        <a className="text-body" href=""><i className="fa fa-eye text-primary me-2"></i>View detail</a>
-                                    </small>
-                                    <small className="w-50 text-center py-2">
-                                        <a className="text-body" href=""><i className="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small>
-                                </div>
+                                
                             </div>
                         </div>
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="product-item">
                                 <div className="position-relative bg-light overflow-hidden">
-                                    <img className="img-fluid w-100" src="img/product-4.jpg" alt=""/>
-                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <img className="img-fluid w-100" src="img/bsn-5-yesilbiber.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Sebzeler</div>
                                 </div>
                                 <div className="text-center p-4">
-                                    <a className="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span className="text-primary me-1">$19.00</span>
-                                    <span className="text-body text-decoration-line-through">$29.00</span>
+                                    <a className="d-block h5 mb-2" href="">Yeşil Biber</a>
+                                    <span className="d-block text-primary me-1">27 kcal</span>
+                                    
                                 </div>
-                                <div className="d-flex border-top">
-                                    <small className="w-50 text-center border-end py-2">
-                                        <a className="text-body" href=""><i className="fa fa-eye text-primary me-2"></i>View detail</a>
-                                    </small>
-                                    <small className="w-50 text-center py-2">
-                                        <a className="text-body" href=""><i className="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small>
-                                </div>
+                                
                             </div>
                         </div>
-                        <div className="col-xl-3 col-lg-4 col-md-6">
-                            <div className="product-item">
-                                <div className="position-relative bg-light overflow-hidden">
-                                    <img className="img-fluid w-100" src="img/product-5.jpg" alt=""/>
-                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
-                                </div>
-                                <div className="text-center p-4">
-                                    <a className="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span className="text-primary me-1">$19.00</span>
-                                    <span className="text-body text-decoration-line-through">$29.00</span>
-                                </div>
-                                <div className="d-flex border-top">
-                                    <small className="w-50 text-center border-end py-2">
-                                        <a className="text-body" href=""><i className="fa fa-eye text-primary me-2"></i>View detail</a>
-                                    </small>
-                                    <small className="w-50 text-center py-2">
-                                        <a className="text-body" href=""><i className="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-xl-3 col-lg-4 col-md-6">
-                            <div className="product-item">
-                                <div className="position-relative bg-light overflow-hidden">
-                                    <img className="img-fluid w-100" src="img/product-6.jpg" alt=""/>
-                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
-                                </div>
-                                <div className="text-center p-4">
-                                    <a className="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span className="text-primary me-1">$19.00</span>
-                                    <span className="text-body text-decoration-line-through">$29.00</span>
-                                </div>
-                                <div className="d-flex border-top">
-                                    <small className="w-50 text-center border-end py-2">
-                                        <a className="text-body" href=""><i className="fa fa-eye text-primary me-2"></i>View detail</a>
-                                    </small>
-                                    <small className="w-50 text-center py-2">
-                                        <a className="text-body" href=""><i className="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-xl-3 col-lg-4 col-md-6">
-                            <div className="product-item">
-                                <div className="position-relative bg-light overflow-hidden">
-                                    <img className="img-fluid w-100" src="img/product-7.jpg" alt=""/>
-                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
-                                </div>
-                                <div className="text-center p-4">
-                                    <a className="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span className="text-primary me-1">$19.00</span>
-                                    <span className="text-body text-decoration-line-through">$29.00</span>
-                                </div>
-                                <div className="d-flex border-top">
-                                    <small className="w-50 text-center border-end py-2">
-                                        <a className="text-body" href=""><i className="fa fa-eye text-primary me-2"></i>View detail</a>
-                                    </small>
-                                    <small className="w-50 text-center py-2">
-                                        <a className="text-body" href=""><i className="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-xl-3 col-lg-4 col-md-6">
-                            <div className="product-item">
-                                <div className="position-relative bg-light overflow-hidden">
-                                    <img className="img-fluid w-100" src="img/product-8.jpg" alt=""/>
-                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
-                                </div>
-                                <div className="text-center p-4">
-                                    <a className="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span className="text-primary me-1">$19.00</span>
-                                    <span className="text-body text-decoration-line-through">$29.00</span>
-                                </div>
-                                <div className="d-flex border-top">
-                                    <small className="w-50 text-center border-end py-2">
-                                        <a className="text-body" href=""><i className="fa fa-eye text-primary me-2"></i>View detail</a>
-                                    </small>
-                                    <small className="w-50 text-center py-2">
-                                        <a className="text-body" href=""><i className="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-12 text-center">
-                            <a className="btn btn-primary rounded-pill py-3 px-5" href="">Browse More Products</a>
-                        </div>
+                                     
                     </div>
                 </div>
                 <div id="tab-3" className="tab-pane fade show p-0">
@@ -332,178 +232,332 @@ function Product() {
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="product-item">
                                 <div className="position-relative bg-light overflow-hidden">
-                                    <img className="img-fluid w-100" src="img/product-1.jpg" alt=""/>
-                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <img className="img-fluid w-100" src="img/meyve-1-ahududu.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Meyveler</div>
                                 </div>
                                 <div className="text-center p-4">
-                                    <a className="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span className="text-primary me-1">$19.00</span>
-                                    <span className="text-body text-decoration-line-through">$29.00</span>
+                                    <a className="d-block h5 mb-2" href="">Ahududu</a>
+                                    <span className="d-block text-primary me-1">52,6 kcal</span>
+                                    
                                 </div>
-                                <div className="d-flex border-top">
-                                    <small className="w-50 text-center border-end py-2">
-                                        <a className="text-body" href=""><i className="fa fa-eye text-primary me-2"></i>View detail</a>
-                                    </small>
-                                    <small className="w-50 text-center py-2">
-                                        <a className="text-body" href=""><i className="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small>
-                                </div>
+                                
                             </div>
                         </div>
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="product-item">
                                 <div className="position-relative bg-light overflow-hidden">
-                                    <img className="img-fluid w-100" src="img/product-2.jpg" alt=""/>
-                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <img className="img-fluid w-100" src="img/meyve-2-elma.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Meyveler</div>
                                 </div>
                                 <div className="text-center p-4">
-                                    <a className="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span className="text-primary me-1">$19.00</span>
-                                    <span className="text-body text-decoration-line-through">$29.00</span>
+                                    <a className="d-block h5 mb-2" href="">Elma</a>
+                                    <span className="d-block text-primary me-1">52,1 kcal</span>
+                                    
                                 </div>
-                                <div className="d-flex border-top">
-                                    <small className="w-50 text-center border-end py-2">
-                                        <a className="text-body" href=""><i className="fa fa-eye text-primary me-2"></i>View detail</a>
-                                    </small>
-                                    <small className="w-50 text-center py-2">
-                                        <a className="text-body" href=""><i className="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small>
-                                </div>
+                                
                             </div>
                         </div>
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="product-item">
                                 <div className="position-relative bg-light overflow-hidden">
-                                    <img className="img-fluid w-100" src="img/product-3.jpg" alt=""/>
-                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <img className="img-fluid w-100" src="img/meyve-3-kayisi.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Meyveler</div>
                                 </div>
                                 <div className="text-center p-4">
-                                    <a className="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span className="text-primary me-1">$19.00</span>
-                                    <span className="text-body text-decoration-line-through">$29.00</span>
+                                    <a className="d-block h5 mb-2" href="">Kayısı</a>
+                                    <span className="d-block text-primary me-1">48 kcal</span>
+                                    
                                 </div>
-                                <div className="d-flex border-top">
-                                    <small className="w-50 text-center border-end py-2">
-                                        <a className="text-body" href=""><i className="fa fa-eye text-primary me-2"></i>View detail</a>
-                                    </small>
-                                    <small className="w-50 text-center py-2">
-                                        <a className="text-body" href=""><i className="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small>
-                                </div>
+                                
                             </div>
                         </div>
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="product-item">
                                 <div className="position-relative bg-light overflow-hidden">
-                                    <img className="img-fluid w-100" src="img/product-4.jpg" alt=""/>
-                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <img className="img-fluid w-100" src="img/meyve-4-kivi.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Meyveler</div>
                                 </div>
                                 <div className="text-center p-4">
-                                    <a className="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span className="text-primary me-1">$19.00</span>
-                                    <span className="text-body text-decoration-line-through">$29.00</span>
+                                    <a className="d-block h5 mb-2" href="">Kivi</a>
+                                    <span className="d-block text-primary me-1">60,9 kcal</span>
+                                    
                                 </div>
-                                <div className="d-flex border-top">
-                                    <small className="w-50 text-center border-end py-2">
-                                        <a className="text-body" href=""><i className="fa fa-eye text-primary me-2"></i>View detail</a>
-                                    </small>
-                                    <small className="w-50 text-center py-2">
-                                        <a className="text-body" href=""><i className="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small>
-                                </div>
+                                
                             </div>
                         </div>
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="product-item">
                                 <div className="position-relative bg-light overflow-hidden">
-                                    <img className="img-fluid w-100" src="img/product-5.jpg" alt=""/>
-                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <img className="img-fluid w-100" src="img/meyve-5-muz.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Meyveler</div>
                                 </div>
                                 <div className="text-center p-4">
-                                    <a className="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span className="text-primary me-1">$19.00</span>
-                                    <span className="text-body text-decoration-line-through">$29.00</span>
+                                    <a className="d-block h5 mb-2" href="">Muz</a>
+                                    <span className="d-block text-primary me-1">88,7 kcal</span>
+                                    
                                 </div>
-                                <div className="d-flex border-top">
-                                    <small className="w-50 text-center border-end py-2">
-                                        <a className="text-body" href=""><i className="fa fa-eye text-primary me-2"></i>View detail</a>
-                                    </small>
-                                    <small className="w-50 text-center py-2">
-                                        <a className="text-body" href=""><i className="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small>
-                                </div>
+                                
                             </div>
                         </div>
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="product-item">
                                 <div className="position-relative bg-light overflow-hidden">
-                                    <img className="img-fluid w-100" src="img/product-6.jpg" alt=""/>
-                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <img className="img-fluid w-100" src="img/meyve-6-nar.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Meyveler</div>
                                 </div>
                                 <div className="text-center p-4">
-                                    <a className="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span className="text-primary me-1">$19.00</span>
-                                    <span className="text-body text-decoration-line-through">$29.00</span>
+                                    <a className="d-block h5 mb-2" href="">Nar</a>
+                                    <span className="d-block text-primary me-1">82,7 kcal</span>
+                                    
                                 </div>
-                                <div className="d-flex border-top">
-                                    <small className="w-50 text-center border-end py-2">
-                                        <a className="text-body" href=""><i className="fa fa-eye text-primary me-2"></i>View detail</a>
-                                    </small>
-                                    <small className="w-50 text-center py-2">
-                                        <a className="text-body" href=""><i className="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small>
-                                </div>
+                                
                             </div>
                         </div>
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="product-item">
                                 <div className="position-relative bg-light overflow-hidden">
-                                    <img className="img-fluid w-100" src="img/product-7.jpg" alt=""/>
-                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <img className="img-fluid w-100" src="img/meyve-7-portakal.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Meyveler</div>
                                 </div>
                                 <div className="text-center p-4">
-                                    <a className="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span className="text-primary me-1">$19.00</span>
-                                    <span className="text-body text-decoration-line-through">$29.00</span>
+                                    <a className="d-block h5 mb-2" href="">Portakal</a>
+                                    <span className="d-block text-primary me-1">47,1 kcal</span>
+                                    
                                 </div>
-                                <div className="d-flex border-top">
-                                    <small className="w-50 text-center border-end py-2">
-                                        <a className="text-body" href=""><i className="fa fa-eye text-primary me-2"></i>View detail</a>
-                                    </small>
-                                    <small className="w-50 text-center py-2">
-                                        <a className="text-body" href=""><i className="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small>
-                                </div>
+                                
                             </div>
                         </div>
                         <div className="col-xl-3 col-lg-4 col-md-6">
                             <div className="product-item">
                                 <div className="position-relative bg-light overflow-hidden">
-                                    <img className="img-fluid w-100" src="img/product-8.jpg" alt=""/>
-                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <img className="img-fluid w-100" src="img/meyve-8-seftali.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Meyveler</div>
                                 </div>
                                 <div className="text-center p-4">
-                                    <a className="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span className="text-primary me-1">$19.00</span>
-                                    <span className="text-body text-decoration-line-through">$29.00</span>
+                                    <a className="d-block h5 mb-2" href="">Şeftali</a>
+                                    <span className="d-block text-primary me-1">39,4 kcal</span>
+                                    
                                 </div>
-                                <div className="d-flex border-top">
-                                    <small className="w-50 text-center border-end py-2">
-                                        <a className="text-body" href=""><i className="fa fa-eye text-primary me-2"></i>View detail</a>
-                                    </small>
-                                    <small className="w-50 text-center py-2">
-                                        <a className="text-body" href=""><i className="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small>
-                                </div>
+                                
                             </div>
                         </div>
 
-                        <div className="col-12 text-center">
-                            <a className="btn btn-primary rounded-pill py-3 px-5" href="">Daha fazla besin gör</a>
-                        </div>
+                        
 
                     </div>
                 </div>
+                <div id="tab-4" className="tab-pane fade show p-0">
+                    <div className="row g-4">
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="product-item">
+                                <div className="position-relative bg-light overflow-hidden">
+                                    <img className="img-fluid w-100" src="img/ekmektahil-1-beyazekmek.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Ekmek ve Tahıllar</div>
+                                </div>
+                                <div className="text-center p-4">
+                                    <a className="d-block h5 mb-2" href="">Beyaz Ekmek</a>
+                                    <span className="d-block text-primary me-1">264,6 kcal</span>
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="product-item">
+                                <div className="position-relative bg-light overflow-hidden">
+                                    <img className="img-fluid w-100" src="img/ekmektahil-2-cavdarekmek.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Ekmek ve Tahıllar</div>
+                                </div>
+                                <div className="text-center p-4">
+                                    <a className="d-block h5 mb-2" href="">Cavdarlı Ekmek</a>
+                                    <span className="d-block text-primary me-1">259,1 kcal</span>
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="product-item">
+                                <div className="position-relative bg-light overflow-hidden">
+                                    <img className="img-fluid w-100" src="img/ekmektahil-3-granola.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Ekmek ve Tahıllar</div>
+                                </div>
+                                <div className="text-center p-4">
+                                    <a className="d-block h5 mb-2" href="">Granola</a>
+                                    <span className="d-block text-primary me-1">$471,3 kcal</span>
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="product-item">
+                                <div className="position-relative bg-light overflow-hidden">
+                                    <img className="img-fluid w-100" src="img/ekmektahil-4-kepekliekmek.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Ekmek ve Tahıllar</div>
+                                </div>
+                                <div className="text-center p-4">
+                                    <a className="d-block h5 mb-2" href="">Kepekli Ekmek</a>
+                                    <span className="d-block text-primary me-1">216 kcal</span>
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="product-item">
+                                <div className="position-relative bg-light overflow-hidden">
+                                    <img className="img-fluid w-100" src="img/ekmektahil-5-misirgevregi.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Ekmek ve Tahıllar</div>
+                                </div>
+                                <div className="text-center p-4">
+                                    <a className="d-block h5 mb-2" href="">Mısır Gevreği</a>
+                                    <span className="d-block text-primary me-1">357,1 kcal</span>
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="product-item">
+                                <div className="position-relative bg-light overflow-hidden">
+                                    <img className="img-fluid w-100" src="img/ekmektahil-6-müsli.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Ekmek ve Tahıllar</div>
+                                </div>
+                                <div className="text-center p-4">
+                                    <a className="d-block h5 mb-2" href="">Müsli</a>
+                                    <span className="d-block text-primary me-1">317 kcal</span>
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="product-item">
+                                <div className="position-relative bg-light overflow-hidden">
+                                    <img className="img-fluid w-100" src="img/ekmektahil-7-tambugdayekmek.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Ekmek ve Tahıllar</div>
+                                </div>
+                                <div className="text-center p-4">
+                                    <a className="d-block h5 mb-2" href="">Tam Buğday Ekmek</a>
+                                    <span className="d-block text-primary me-1">247,1 kcal</span>
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                        
+
+                    </div>
+                </div>
+                <div id="tab-5" className="tab-pane fade show p-0">
+                    <div className="row g-4">
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="product-item">
+                                <div className="position-relative bg-light overflow-hidden">
+                                    <img className="img-fluid w-100" src="img/diger-1-ceviz.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Diğer</div>
+                                </div>
+                                <div className="text-center p-4">
+                                    <a className="d-block h5 mb-2" href="">Ceviz</a>
+                                    <span className="d-block text-primary me-1">654 kcal</span>
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="product-item">
+                                <div className="position-relative bg-light overflow-hidden">
+                                    <img className="img-fluid w-100" src="img/diger-2-findik.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Diğer</div>
+                                </div>
+                                <div className="text-center p-4">
+                                    <a className="d-block h5 mb-2" href="">Fındık</a>
+                                    <span className="d-block text-primary me-1">658 kcal</span>
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="product-item">
+                                <div className="position-relative bg-light overflow-hidden">
+                                    <img className="img-fluid w-100" src="img/diger-3-fistik.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Diğer</div>
+                                </div>
+                                <div className="text-center p-4">
+                                    <a className="d-block h5 mb-2" href="">Yer Fıstığı</a>
+                                    <span className="d-block text-primary me-1">567 kcal</span>
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="product-item">
+                                <div className="position-relative bg-light overflow-hidden">
+                                    <img className="img-fluid w-100" src="img/diger-4-kuruuzum.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Diğer</div>
+                                </div>
+                                <div className="text-center p-4">
+                                    <a className="d-block h5 mb-2" href="">Kuru Üzüm</a>
+                                    <span className="d-block text-primary me-1">299,2 kcal</span>
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="product-item">
+                                <div className="position-relative bg-light overflow-hidden">
+                                    <img className="img-fluid w-100" src="img/diger-5-pekmez.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Diğer</div>
+                                </div>
+                                <div className="text-center p-4">
+                                    <a className="d-block h5 mb-2" href="">Pekmez</a>
+                                    <span className="d-block text-primary me-1">242 kcal</span>
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="product-item">
+                                <div className="position-relative bg-light overflow-hidden">
+                                    <img className="img-fluid w-100" src="img/diger-6-tahin.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Diğer</div>
+                                </div>
+                                <div className="text-center p-4">
+                                    <a className="d-block h5 mb-2" href="">Tahin</a>
+                                    <span className="d-block text-primary me-1">594,9 kcal</span>
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <div className="col-xl-3 col-lg-4 col-md-6">
+                            <div className="product-item">
+                                <div className="position-relative bg-light overflow-hidden">
+                                    <img className="img-fluid w-100" src="img/diger-7-yumurta.jpg" alt=""/>
+                                    <div className="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Diğer</div>
+                                </div>
+                                <div className="text-center p-4">
+                                    <a className="d-block h5 mb-2" href="">Yumurta</a>
+                                    <span className="d-block text-primary me-1">155,1 kcal</span>
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                        
+
+                        
+
+                    </div>
+                </div>
+
+
             </div>
         </div>
     </div>
