@@ -30,6 +30,9 @@ function NavBar() {
                     <a href="/" className="nav-item nav-link active">Anasayfa</a>
                     <a href="/hakkinda" className="nav-item nav-link">Hakkında</a>
                     <a href="/kahvalti-besinleri" className="nav-item nav-link">Kahvaltı Besinleri</a>
+                    <a href="/model-bilesenleri" className="nav-item nav-link">Model Bileşenleri</a>
+
+                    {/*
                     <div className="nav-item dropdown">
                         <a href="#" className="nav-link dropdown-toggle" data-bs-toggle="dropdown">Model Bileşenleri</a>
                         <div className="dropdown-menu m-0">
@@ -43,8 +46,9 @@ function NavBar() {
                             <a href="/aninda-rekabet-eden-talepler-ve-tercihler" className="dropdown-item">Anında Rekabet Eden Talepler ve Tercihler</a>
                             <a href="/planlama-taahhudu" className="dropdown-item">Planlama Taahhüdü</a>
                         </div>
-                    </div>
-                    
+                    </div>    
+                    */}
+
                 </div>
                 <div className="d-none d-lg-flex ms-2">
                     <a className="btn-sm-square bg-white rounded-circle ms-3" href="">

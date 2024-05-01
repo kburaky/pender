@@ -2,6 +2,7 @@ import React from "react"
 import Index from "./pages/Index"
 import About from "./pages/About"
 import BreakfastFoods from "./pages/BreakfastFoods"
+import ModelComponents from "./pages/ModelComponents"
 import PageNotFound from "./pages/PageNotFound"
 import ModelBilesenBir from "./pages/ModelBilesenBir"
 import ModelBilesenIki from "./pages/ModelBilesenIki"
@@ -23,6 +24,7 @@ function App() {
         <Route path="/" element={<Index/>} />
         <Route path="/hakkinda" element={<About/>} />
         <Route path="/kahvalti-besinleri" element={<BreakfastFoods/>} />
+        <Route path="/model-bilesenleri" element={<ModelComponents/>} />
         <Route path="/onceki-ilgili-davranis" element={<ModelBilesenBir/>} />
         <Route path="/algilanan-fayda" element={<ModelBilesenIki/>} />
         <Route path="/algilanan-engeller" element={<ModelBilesenUc/>} />
