@@ -57,9 +57,9 @@ function Feature() {
                 <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div className="bg-white text-center h-100 p-4 p-xl-5">
                         <img className="img-fluid mb-4" src="img/healthy.png" alt=""/>
-                        <h4 className="mb-3">Kişiler Arası İlişkiler</h4>
+                        <h4 className="mb-3">Kişiler Arası Etkiler</h4>
                         <p className="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
-                        <a className="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="/kisiler-arasi-iliskiler">Seç</a>
+                        <a className="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="/kisiler-arasi-etkiler">Seç</a>
                     </div>
                 </div>
             </div>
