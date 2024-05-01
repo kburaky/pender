@@ -14,7 +14,7 @@ function NavBar() {
                 <a className="text-body ms-3" href=""><i className="fab fa-facebook-f"></i></a>
                 <a className="text-body ms-3" href=""><i className="fab fa-twitter"></i></a>
                 <a className="text-body ms-3" href=""><i className="fab fa-linkedin-in"></i></a>
-                <a className="text-body ms-3" href=""><i className="fab fa-instagram"></i></a>
+                <a className="text-body ms-3" href="https://www.youtube.com/@penderkahvaltimodeli"><i className="fab fa-youtube"></i></a>
             </div>
         </div>
 
