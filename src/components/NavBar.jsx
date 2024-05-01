@@ -38,7 +38,7 @@ function NavBar() {
                             <a href="/algilanan-engeller" className="dropdown-item">Algılanan Engeller</a>
                             <a href="/algilanan-ozyeterlilik" className="dropdown-item">Algılanan Özyeterlilik</a>
                             <a href="/kahvalti-olumlu-ve-olumsuz-etki" className="dropdown-item">Kahvaltı Olumlu ve Olumsuz Etki</a>
-                            <a href="/kisiler-arasi-iliskiler" className="dropdown-item">Kişiler Arası İlişkiler</a>
+                            <a href="/kisiler-arasi-etkiler" className="dropdown-item">Kişiler Arası Etkiler</a>
                             <a href="/durumsal-etkiler" className="dropdown-item">Durumsal Etkiler</a>
                             <a href="/aninda-rekabet-eden-talepler-ve-tercihler" className="dropdown-item">Anında Rekabet Eden Talepler ve Tercihler</a>
                             <a href="/planlama-taahhudu" className="dropdown-item">Planlama Taahhüdü</a>
