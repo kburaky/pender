@@ -29,6 +29,12 @@
     background-size: contain;
 }
 
+.hakkindatext {
+    font-weight: 500;
+    transition: .5s;
+    font-size: x-large;
+}
+
 
 /*** Spinner ***/
 #spinner {
@@ -43,6 +49,8 @@
     visibility: visible;
     opacity: 1;
 }
+
+
 
 
 /*** Button ***/

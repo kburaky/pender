@@ -13,7 +13,7 @@ function About() {
       <NavBar />
       <Breadcrumb page="Hakkında" title="Hakkında" />
       <Aboutt />
-      <FirmVisit />
+      {/*<FirmVisit />*/}
       <Footer />
       
     </div>

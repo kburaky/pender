@@ -30,7 +30,11 @@ function NavBar() {
                     <a href="/" className="nav-item nav-link active">Anasayfa</a>
                     <a href="/hakkinda" className="nav-item nav-link">Hakkında</a>
                     <a href="/kahvalti-besinleri" className="nav-item nav-link">Kahvaltı Besinleri</a>
-                    <a href="/model-bilesenleri" className="nav-item nav-link">Model Bileşenleri</a>
+                    <a href="/kahvalti-besinleri" className="nav-item nav-link">Ebeveyn Eğitim</a>
+                    <a href="/kahvalti-besinleri" className="nav-item nav-link">Etkinlikler</a>
+                    <a href="/kahvalti-besinleri" className="nav-item nav-link">Videolar</a>
+                    <a href="/kahvalti-besinleri" className="nav-item nav-link">Broşürler</a>
+                    {/*<a href="/model-bilesenleri" className="nav-item nav-link">Model Bileşenleri</a>*/}
 
                     {/*
                     <div className="nav-item dropdown">
@@ -57,9 +61,7 @@ function NavBar() {
                     <a className="btn-sm-square bg-white rounded-circle ms-3" href="">
                         <small className="fa fa-user text-body"></small>
                     </a>
-                    <a className="btn-sm-square bg-white rounded-circle ms-3" href="">
-                        <small className="fa fa-shopping-bag text-body"></small>
-                    </a>
+                   
                 </div>
             </div>
         </nav>

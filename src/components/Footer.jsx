@@ -22,7 +22,7 @@ function Footer() {
                 <div className="col-lg-3 col-md-6">
                     <h4 className="text-light mb-4">Adres</h4>
                     <p><i className="fa fa-map-marker-alt me-3"></i>Türkiye</p>
-                    <p><i className="fa fa-phone-alt me-3"></i>(0312) 123 45 67</p>
+                    {/*<p><i className="fa fa-phone-alt me-3"></i>(0312) 123 45 67</p>*/}
                     <p><i className="fa fa-envelope me-3"></i>info@penderkahvaltimodeli.com</p>
                 </div>
                 <div className="col-lg-3 col-md-6">

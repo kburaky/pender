@@ -13,14 +13,40 @@ function About() {
                 </div>
                 <div className="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                     <h1 className="display-5 mb-4">PENDER'in Sağlığı Geliştirme Modeli nedir?</h1>
-                    <p className="mb-4">PENDER’in Sağlık Geliştirme Modeli, bireylerin sağlık davranışlarını ve yaşam tarzlarını anlamak ve geliştirmek için kullanılan kapsamlı bir modeldir. Bu model, bireyin sağlık davranışlarını etkileyen sosyal, psikolojik, kişisel ve fizyolojik faktörleri ele alır. Sağlık davranışlarının kökenleri, insanın yaşam kalitesini nasıl etkilediği ve sağlık hizmeti kullanımının artırılmasına nasıl yardımcı olabileceği gibi konularda derinlemesine bilgi sunar.
+                    <p className="mb-4 hakkindatext">Pender'in Sağlığı Geliştirme Modeli (SGM), sağlıksız davranışları planlamak ve değiştirmek
+ve sağlığı geliştirmek için yaygın olarak kullanılan modellerden biridir.
                     </p>
-                    <p><i className="fa fa-check text-primary me-3"></i>Sağlığı geliştirmek için bireylerin özgünlüğüne ve kendine özgü bakış açısına odaklanır</p>
-                    <p><i className="fa fa-check text-primary me-3"></i>Model, bireyin çeşitli etmenlerin etkisi altındaki karar alma sürecini ve sağlık davranışlarını değiştirme sürecini ayrıntılı biçimde ele alır.Bu sayede, sağlık profesyonelleri, bireylerin sağlık davranışlarını desteklemek ve olumlu değişikliklere teşvik etmek konusunda daha etkili olabilir.</p>
+                    {/*<p><i className="fa fa-check text-primary me-3"></i>Sağlığı geliştirmek için bireylerin özgünlüğüne ve kendine özgü bakış açısına odaklanır</p>*/}
+                    
                     
                     
                 </div>
             </div>
+            
+
+            <div className="row g-5 align-items-center">
+                
+                <h1 className="display-5 mb-3 text-left">Model Bileşenleri</h1>
+
+                <div className="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+                <p className="mb-4 hakkindatext"><i className="fa fa-check text-primary me-3"></i>Önceki İlgili Davranış</p>
+                <p className="mb-4 hakkindatext"><i className="fa fa-check text-primary me-3"></i>Algılanan Fayda</p>
+                <p className="mb-4 hakkindatext"><i className="fa fa-check text-primary me-3"></i>Algılanan Engeller</p>
+                <p className="mb-4 hakkindatext"><i className="fa fa-check text-primary me-3"></i>Algılanan Özyeterlilik</p>
+                <p className="mb-4 hakkindatext"><i className="fa fa-check text-primary me-3"></i>Olumlu ve Olumsuz Etki</p>
+                </div>
+                <div className="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                    
+                    <p className="mb-4 hakkindatext"><i className="fa fa-check text-primary me-3"></i>Kişilerarası Etkiler</p>
+                    <p className="mb-4 hakkindatext"><i className="fa fa-check text-primary me-3"></i>Durumsal Etkiler</p>
+                    <p className="mb-4 hakkindatext"><i className="fa fa-check text-primary me-3"></i>Anında Rekabet Eden Talepler ve Tercihler</p>
+                    <p className="mb-4 hakkindatext"><i className="fa fa-check text-primary me-3"></i>Planlama Taahhüdü</p>
+                    
+                    
+                </div>
+            </div>
+
+
         </div>
     </div>
     </div>
