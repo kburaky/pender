@@ -29,7 +29,7 @@ function App() {
         <Route path="/algilanan-fayda" element={<ModelBilesenIki/>} />
         <Route path="/algilanan-engeller" element={<ModelBilesenUc/>} />
         <Route path="/algilanan-ozyeterlilik" element={<ModelBilesenDort/>} />
-        <Route path="/kahvalti-olumlu-ve-olumsuz-etki" element={<ModelBilesenBes/>} />
+        <Route path="/olumlu-ve-olumsuz-etki" element={<ModelBilesenBes/>} />
         <Route path="/kisiler-arasi-etkiler" element={<ModelBilesenAlti/>} />
         <Route path="/durumsal-etkiler" element={<ModelBilesenYedi/>} />
         <Route path="/aninda-rekabet-eden-talepler-ve-tercihler" element={<ModelBilesenSekiz/>} />

@@ -27,7 +27,7 @@ function ModelBilesenBes() {
 
       <div className="row g-5 align-items-center">
                 <div className="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                <p>Çocuklar için düzenli kahvaltı yapmanın birçok faydası vardır:</p>
+                <p>Çocukların düzenli ve sağlıklı kahvaltı yapmasının olumlu etkileri:</p>
 <ol>
 <li><b>Enerji ve Odaklanma:</b> Kahvaltı yapmak, çocukların gün boyunca ihtiyaçları olan enerjiyi sağlar. Ayrıca kahvaltı, dikkatlerini toplamalarına ve okulda daha iyi performans göstermelerine yardımcı olabilir.</li>
 <li><b>	Besin Alımı:</b> Kahvaltı, birçok önemli besin grubunu içerebilir. Özellikle protein, lif, vitaminler ve mineraller açısından zengin bir kahvaltı, çocukların sağlıklı bir şekilde büyümelerine ve gelişmelerine yardımcı olabilir.</li>
@@ -47,7 +47,7 @@ function ModelBilesenBes() {
 <br/>
       <div className="row g-5 align-items-center">
                 <div className="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                <p>Çocukların düzenli kahvaltı yapmaması bir dizi olumsuz etkiye yol açabilir:</p>
+                <p>Çocukların düzenli ve sağlıklı kahvaltı yapmamasının olumsuz etkileri:</p>
 <ol>
 <li><b>Enerji Düzeylerinde Düşüş:</b> Kahvaltı yapmayan çocuklar, gün boyunca ihtiyaçları olan enerjiyi alamazlar. Bu durum, okulda dikkatlerinin dağılmasına, yorgunluğa ve halsizliğe neden olabilir.</li>
 <li><b>Öğrenme ve Akademik Performansta Azalma:</b> Düzenli kahvaltı yapmamanın, çocukların konsantrasyonunu ve öğrenme yeteneklerini olumsuz etkilediği gösterilmiştir. Bu durum, okul başarısında düşüşe neden olabilir.</li>

@@ -29,7 +29,7 @@ function ModelBilesenAlti() {
       <div className="row g-5 align-items-center">
         <div className="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                 
-              <p><b>Çocukların kahvaltı alışkanlığı kazanmasında öğretmenlerin rolü</b></p>
+              <p><b>Çocukların düzenli ve sağlıklı kahvaltı yapmasında  öğretmenlerin,ailenin ve arkadaşlarının rolü</b></p>
               <p>Öğretmenler, çocukların kahvaltı alışkanlığı kazanmasında önemli bir rol oynayabilirler. İşte öğretmenlerin bu konudaki etkileri:</p>
               <ol>
               <li><b>Bilgilendirme ve Farkındalık Oluşturma:</b> Öğretmenler, sağlıklı beslenme konusunda öğrencilere bilgi vererek ve farkındalık oluşturarak kahvaltının önemini vurgulayabilirler. Sınıf içinde veya okul genelinde düzenlenecek etkinlikler ve konuşmalar aracılığıyla öğrencilere sağlıklı kahvaltı alışkanlıklarının faydaları anlatılabilir.</li>

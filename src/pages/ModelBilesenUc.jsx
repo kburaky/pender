@@ -27,7 +27,7 @@ function ModelBilesenUc() {
       <div className="row g-5 align-items-center">
                 <div className="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                 
-                <p>Öğrencilerin kahvaltı yapmama sebepleri çeşitli olabilir:</p>
+                <p>Çocukların düzenli ve sağlıklı kahvaltı yapmasında algılanan engeller:</p>
 
               <ol>
               <li><b>	Zaman Yetersizliği:</b> Sabahları okula yetişme telaşı içinde olan öğrenciler, kahvaltı için yeterli zamanı bulamayabilirler.</li>

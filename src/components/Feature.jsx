@@ -56,7 +56,7 @@ başarılı olarak yapmasına ilişkin kendi öz yargısı, inancı olarak tanı
                         <img className="img-fluid mb-4" src="img/healthy.png" alt=""/>
                         <h4 className="mb-3">Olumlu ve Olumsuz Etki</h4>
                         <p className="mb-4">Çocuklarda düzenli ve sağlıklı kahvaltı yapmanın olumlu etkileri görülürken, yapmamanın birtakım olumsuz etkileri görülmektedir.</p>
-                        <a className="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="/kahvalti-olumlu-ve-olumsuz-etki">Seç</a>
+                        <a className="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="/olumlu-ve-olumsuz-etki">Seç</a>
                     </div>
                 </div>
                 <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
