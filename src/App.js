@@ -29,7 +29,7 @@ function App() {
         <Route path="/hakkinda" element={<About/>} />
         <Route path="/kahvalti-besinleri" element={<BreakfastFoods/>} />
         <Route path="/model-bilesenleri" element={<ModelComponents/>} />
-        <Route path="/ebeveyn-egitim" element={<ParentEducation/>} />
+        <Route path="/ebeveyn-rolu" element={<ParentEducation/>} />
         <Route path="/etkinlikler" element={<Activities/>} />
         <Route path="/videolar" element={<Videos/>} />
         <Route path="/brosurler" element={<Brochures/>} />

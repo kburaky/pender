@@ -30,7 +30,7 @@ function NavBar() {
                     <a href="/" className="nav-item nav-link active">Anasayfa</a>
                     <a href="/hakkinda" className="nav-item nav-link">Hakkında</a>
                     <a href="/kahvalti-besinleri" className="nav-item nav-link">Kahvaltı Besinleri</a>
-                    <a href="/ebeveyn-egitim" className="nav-item nav-link">Ebeveyn Eğitim</a>
+                    <a href="/ebeveyn-rolu" className="nav-item nav-link">Ebeveyn Rolü</a>
                     <a href="/etkinlikler" className="nav-item nav-link">Etkinlikler</a>
                     <a href="/videolar" className="nav-item nav-link">Videolar</a>
                     <a href="/brosurler" className="nav-item nav-link">Broşürler</a>
