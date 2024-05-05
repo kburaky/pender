@@ -3,6 +3,10 @@ import Index from "./pages/Index"
 import About from "./pages/About"
 import BreakfastFoods from "./pages/BreakfastFoods"
 import ModelComponents from "./pages/ModelComponents"
+import ParentEducation from "./pages/ParentEducation"
+import Activities from "./pages/Activities"
+import Videos from "./pages/Videos"
+import Brochures from "./pages/Brochures"
 import PageNotFound from "./pages/PageNotFound"
 import ModelBilesenBir from "./pages/ModelBilesenBir"
 import ModelBilesenIki from "./pages/ModelBilesenIki"
@@ -25,6 +29,10 @@ function App() {
         <Route path="/hakkinda" element={<About/>} />
         <Route path="/kahvalti-besinleri" element={<BreakfastFoods/>} />
         <Route path="/model-bilesenleri" element={<ModelComponents/>} />
+        <Route path="/ebeveyn-egitim" element={<ParentEducation/>} />
+        <Route path="/etkinlikler" element={<Activities/>} />
+        <Route path="/videolar" element={<Videos/>} />
+        <Route path="/brosurler" element={<Brochures/>} />
         <Route path="/onceki-ilgili-davranis" element={<ModelBilesenBir/>} />
         <Route path="/algilanan-fayda" element={<ModelBilesenIki/>} />
         <Route path="/algilanan-engeller" element={<ModelBilesenUc/>} />
