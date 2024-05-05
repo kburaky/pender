@@ -5,9 +5,9 @@ function Feature() {
     <div>
         <div className="container-fluid bg-light bg-icon my-5 py-6">
         <div className="container">
-            <div className="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" 
-            style={{maxWidth: 500}}>
-                <h1 className="display-5 mb-3">Pender'in sağlığı geliştirme modeli bileşenleri</h1>
+            <div className="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" >
+                {/*  style={{maxWidth: 500}}*/}
+                <h1 className="display-5 mb-3">Pender'in Sağlığı Geliştirme Modeli Bileşenleri</h1>
                 
             </div>
             <div className="row g-4">
