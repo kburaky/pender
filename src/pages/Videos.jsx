@@ -14,30 +14,19 @@ function Videos() {
   <div className="container">
       <div className="row g-5 align-items-center">
           <div className="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-          <h1 className="display-5 mb-4">Sayfa Yapım Aşamasında...</h1>
+              
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/XTxlYe1ruE8?si=M4K1mc1F6ca-1qsW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
           </div>
           <div className="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
               
-              
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/5klABdxjQa4?si=8i5dCYyFVVgk7zFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
               
           </div>
       </div>
 
-      <div className="row g-5 align-items-center">
-                <div className="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                
-                <p></p>
-
-              
-
-
-                </div>
-                <div className="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-
-                    
-                    
-                </div>
-            </div>
+      
 
 
 
